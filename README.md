@@ -26,7 +26,7 @@ DIP (Dependency Inversion Principle)
 ---
 
 ## Salida de mi Aplicación
-![Project Salida Aplicacion](./doc/salida_consola.JPG)
+![Project Salida Aplicacion](./doc/salida_por_pantalla_dip_exercise.JPG)
 
 **[⬆ back to top](#tabla-de-contenidos)**
 
