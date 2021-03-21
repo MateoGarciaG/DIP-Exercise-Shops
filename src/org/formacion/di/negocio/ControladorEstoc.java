@@ -1,12 +1,12 @@
 package org.formacion.di.negocio;
 
-import org.formacion.di.bbdd.InventarioBBDD;
+import org.formacion.di.bbdd.Inventario;
 
 public class ControladorEstoc implements Controlador{
 
-	private final InventarioBBDD inventario;
+	private final Inventario inventario;
 	
-	public ControladorEstoc(InventarioBBDD inventario) {
+	public ControladorEstoc(Inventario inventario) {
 		this.inventario = inventario;
 	}
 
